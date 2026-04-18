@@ -1,0 +1,6 @@
+{
+  "name": "SumStack",
+  "description": "A vibrant number-sum elimination puzzle game. Match numbers to reach the target sum and keep the stack from reaching the top!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
